@@ -1,1 +1,1 @@
-discord bot for the me of my discord servers, hoping to add more to it.
+discord bot for one of my discord servers, hoping to add more to it.
